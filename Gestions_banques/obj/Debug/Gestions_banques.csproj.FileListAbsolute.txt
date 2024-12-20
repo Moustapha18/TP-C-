@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Gestions_banques\Gestions_banques\obj\Debug\Gestions_banques.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Gestions_banques\Gestions_banques\obj\Debug\Gestions_banques.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Gestions_banques\Gestions_banques\bin\Debug\Gestions_banques.exe.config
+C:\Users\USER\Desktop\Gestions_banques\Gestions_banques\bin\Debug\Gestions_banques.exe
+C:\Users\USER\Desktop\Gestions_banques\Gestions_banques\bin\Debug\Gestions_banques.pdb
+C:\Users\USER\Desktop\Gestions_banques\Gestions_banques\obj\Debug\Gestions_banques.exe
+C:\Users\USER\Desktop\Gestions_banques\Gestions_banques\obj\Debug\Gestions_banques.pdb
